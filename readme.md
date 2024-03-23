@@ -1,3 +1,0 @@
-#HELLO
-
-git 1
